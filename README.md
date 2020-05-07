@@ -1,3 +1,9 @@
+https://cryptic-stream-34365.herokuapp.com/ 
+
+https://git.heroku.com/cryptic-stream-34365.git
+
+
+
 Line Bot 基礎範例程式碼教學 (PHP) - 輕量版 LINEBotTiny.php
 ====================
 
