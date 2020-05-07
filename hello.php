@@ -16,6 +16,6 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <h1>Hello Line bot</h1>
-        
+        <p>今天是<?php echo date("Y m d"); ?></p> 
     </body>
 </html>
